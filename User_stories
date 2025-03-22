@@ -1,0 +1,17 @@
+User Story 1: Viewing Library Rules
+As a student,
+I want to view library policies and guidelines,
+So that I can follow the rules properly.
+Acceptance Criteria:
+* Given that I navigate to the library info section,
+* When I open the policies page,
+* Then I should see the library rules.
+ 
+User Story 2: Booking Study Rooms
+As a student,
+I want to book a study room in the library,
+So that I can study with my group in a quiet space.
+Acceptance Criteria:
+* Given that a study room is available,
+* When I submit a booking request,
+* Then the system should confirm my reservation.
